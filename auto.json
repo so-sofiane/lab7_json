@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2023,
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+  }
